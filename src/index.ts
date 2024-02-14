@@ -98,3 +98,5 @@ async function run() {
   }
 }
 run().catch(console.dir);
+
+export default app;
